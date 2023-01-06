@@ -129,7 +129,9 @@
   position: absolute;
   z-index: -1;
 }
-
+.contact{
+  background-color: aqua;
+}
 /* Conic Gradient Animation */
 .thirteen::before {
   animation: 6s rotate linear infinite;
